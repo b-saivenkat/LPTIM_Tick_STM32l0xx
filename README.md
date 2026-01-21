@@ -26,7 +26,7 @@ After these changes:
 - LPTIM fully replaces SysTick as the FreeRTOS time base  
 - The solution functions as expected with CubeMX FreeRTOS v10.2.x  
 
-## Power Observation on costume STM32 board
+## Power Observation on costum STM32 board
 
 - STOP mode current with FreeRTOS + LPTIM: ~0.3 mA  
 - Bare-metal STOP mode on the same hardware: ~0.08 mA  
